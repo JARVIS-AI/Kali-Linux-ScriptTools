@@ -21,6 +21,12 @@ Clean with automated powerful ``apt command``
 
 
 
+### Note : 
+
+Any future kali script that I will make will be push here so bookmark this page or fork it
+
+
+
 #### Contribution
 
 ANY CONTRIBUTIONS ARE WELCOME SO DO IT
